@@ -12,4 +12,4 @@ NETSH int ipv6 reset reset.log
 shutdown /f /r 
 echo your computer will restart in 30 second
 
-echo you can close the command line
+pause
