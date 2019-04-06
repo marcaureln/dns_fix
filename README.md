@@ -15,6 +15,8 @@ I used to have many conexion issue previously but after some search on google an
 4. Double click on `dns_fix.bat`
 5. It's done !
 
+**Note:** You can also run the `dns_fix_no_reboot` script if you won't restart your computer
+
 ## Contributing
 
 1. Fork it
