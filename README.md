@@ -12,7 +12,7 @@ I used to have many conexion issue previously but after some search on google an
 1. Download the repository
 2. Unzip the archive
 3. Save your work because **your computer will restart!**
-4. Double click on `dns_fix.bat`
+4. Run `dns_fix.bat` as administator
 5. It's done !
 
 **Note:** You can also run the `dns_fix_no_reboot` script if you won't restart your computer
