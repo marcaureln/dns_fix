@@ -1,6 +1,7 @@
 # dns_fix
 
 dns_fix is a simple batch script who try to resolve DNS issues on Windows.
+
 ![command line gif](https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif)
 
 ### The little story
